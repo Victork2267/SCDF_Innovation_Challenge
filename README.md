@@ -14,4 +14,3 @@ Early Fire detection system using deep learning and OpenCV
 
 Understanding and Coding a ResNet in Keras
 (https://towardsdatascience.com/understanding-and-coding-a-resnet-in-keras-446d7ff84d33)
-
