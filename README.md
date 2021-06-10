@@ -1,4 +1,4 @@
-# SCDF X IBM Lifesavers' Innovation Challenge 2021 Team RE(Solutions)
+# F(i)rest - SCDF X IBM Lifesavers' Innovation Challenge 2021
 The following outlines team RE(Solutons)'s solution: F(i)rest
 ## Description
 F(i)rest is a machine learning model web application that detects fires and objects that could be associated with antecedents of fire. The application is built using Tensorflow and Streamlit. The object detection model is builded using a ResNet50 model architecture. 
