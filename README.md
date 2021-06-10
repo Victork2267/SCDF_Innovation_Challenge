@@ -1,7 +1,7 @@
-# SCDF_Innovation_Challenge
-The following outlines team RE(Solutons)'s solution: FireOn
+# SCDF X IBM Lifesavers' Innovation Challenge 2021 Team RE(Solutions)
+The following outlines team RE(Solutons)'s solution: F(i)rest
 ## Description
-FireOn is a machine learning model web application that detects fires and objects that could be associated with antecedents of fire. The application is built using Tensorflow and Streamlit. The model is builded using a ResNet50 model architecture. 
+F(i)rest is a machine learning model web application that detects fires and objects that could be associated with antecedents of fire. The application is built using Tensorflow and Streamlit. The object detection model is builded using a ResNet50 model architecture. 
 ## App Screenshots
 ![](SCDF_inno_1.PNG)
 ![](SCDF_inno_2.PNG)
